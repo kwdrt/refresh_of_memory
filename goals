@@ -1,10 +1,10 @@
 Potential TO-DO:
 
-normal language -> Brainfuck text interpreter
+normal language -> Brainfuck text interpreter - kind of done, work in progress because it's very naive
 web crawler for imageboards
 own image hosting solution
 "what to watch next", getting a list from another service and rolling the dice
-dice roller (D6,D10 etc) (mobile?)
+dice roller (D6,D10, custom D? etc) (mobile?)
 simple racing game (learning SDL2?)
 simple back-up utility
 easy encrypt for files
